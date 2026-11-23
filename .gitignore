@@ -1,0 +1,11 @@
+/vigil
+/vigil-asan
+/tests/test_sha256
+/fuzz/fuzz_parser
+/fuzz/corpus/
+crash-*
+leak-*
+timeout-*
+*.dSYM/
+*.o
+.DS_Store
